@@ -83,4 +83,4 @@ The project typically involves:
 - Open source machine learning community
 - Research papers on automated malaria detection
 
-```
+
